@@ -4,8 +4,8 @@
 //declaracao de variáveis ambiente
 LiquidCrystal lcd(13, 12, 5, 4, 3, 2);
 int buzzer = 8;
-int MQ = A0;
-int padrao_sensor = 600;
+int MQ = A0; //porta analógica
+int padrao_sensor = 1000;
 const int led_vermelho = 7;
 const int led_amarelo = 6;
 
@@ -23,9 +23,9 @@ void setup() {
 
 void loop() {
   int valor_analogico = analogRead(MQ);  //VARIÁVEL RECEBE O VALOR LIDO NO PINO ANALÓGICO
-  Serial.print("Leitura: ");        //EXIBE O TEXTO NO MONITOR SERIAL
+  Serial.print("Leitura Analógico: ");        //EXIBE O TEXTO NO MONITOR SERIAL
   Serial.println(valor_analogico);  // MOSTRA NO MONITOR SERIAL O VALOR LIDO DO PINO ANALÓGICO
-
+  
   lcd.clear();  //limpa o display
   lcd.setCursor(0,0);//posiciona o cursor na coluna 3 e linha 0
   lcd.print("Medida: ");
