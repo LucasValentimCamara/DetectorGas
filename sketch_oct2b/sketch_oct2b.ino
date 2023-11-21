@@ -19,6 +19,7 @@ void setup() {
   lcd.begin(16, 2);
   lcd.setCursor(0,0);
   lcd.print("Iniciando");
+  delay(10000); //Tempo para estabilizar o sensor
 }
 
 void loop() {
@@ -51,7 +52,7 @@ void loop() {
     digitalWrite(led_vermelho, LOW);
     digitalWrite(buzzer, LOW);
   }
-  delay(100); //Leitura do sensor a cada 0,1 segundo
+  delay(300); //Leitura do sensor a cada 0,3 segundo
 }
 
 //funcao para alerta amarelo, mais da metade do padrão
