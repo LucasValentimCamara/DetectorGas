@@ -5,7 +5,7 @@
 LiquidCrystal lcd(13, 12, 5, 4, 3, 2);
 int buzzer = 8;
 int MQ = A0; //porta analógica
-int padrao_sensor = 1000;
+int padrao_sensor = 500;
 const int led_vermelho = 7;
 const int led_amarelo = 6;
 
