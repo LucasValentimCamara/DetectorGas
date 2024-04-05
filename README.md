@@ -9,3 +9,7 @@ Projeto Eletrônico (feito pelo TinkerCAD)
 (TinkerCAD projeto: https://www.tinkercad.com/things/jjGzRKDs0nw?sharecode=RJ3x4ciHMl3m8lBqtMbEqwnFQujtCD1BfHWQNkfqcFc)
 
 ![Captura_de_tela_2023-11-14_192808-removebg-preview](https://github.com/LucasValentimCamara/DetectorGas/assets/112654407/e00d3fb9-d17e-43f5-8ef8-f4a40329ce9a)
+(Montagem PCB com Flux.AI)
+
+![IMG_20231121_165558468_MFNR-removebg-preview](https://github.com/LucasValentimCamara/DetectorGas/assets/112654407/19f5bf72-a1a5-47ac-a108-5c9e1cff15cb)
+(Montagem teste hardware)
