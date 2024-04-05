@@ -13,3 +13,6 @@ Projeto Eletrônico (feito pelo TinkerCAD)
 
 ![IMG_20231121_165558468_MFNR-removebg-preview](https://github.com/LucasValentimCamara/DetectorGas/assets/112654407/19f5bf72-a1a5-47ac-a108-5c9e1cff15cb)
 (Montagem teste hardware)
+![WhatsApp Image 2023-12-03 at 23 12 17](https://github.com/LucasValentimCamara/DetectorGas/assets/112654407/672d56ef-adb6-4afc-8b2a-38878ef8cedd)
+![WhatsApp Image 2023-12-03 at 23 11 36](https://github.com/LucasValentimCamara/DetectorGas/assets/112654407/592c6d73-59cc-471d-afc2-eddc96bec3fb)
+![WhatsApp Image 2023-12-07 at 18 58 26](https://github.com/LucasValentimCamara/DetectorGas/assets/112654407/48e7bff9-5784-453f-98b8-52bbe0400f5c)
